@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Виртуальные окружения
+venv/
+env/
+.venv/
+
+# Лог‑файлы
+*.log
+
+# Конфигурационные файлы (пользовательские)
+config.json
+
+# Временные файлы
+*.tmp
+
+# IDE и редакторы
+.vscode/
+.idea/
+*.sublime-workspace
+
+# ОС
+.DS_Store
+Thumbs.db
+
+# PyInstaller
+build/
+dist/
+
+
+#Melodies
+*.wav
+*.mp3
