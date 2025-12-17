@@ -30,10 +30,10 @@ sounddevice
 tkinter обычно входит в стандартную поставку Python и не требует отдельной установки.
 
 Установите зависимости через pip:
-
+```
 bash
 ```
-pip install pygame sounddevice
+pip install -r requirements.py
 ```
 ---
 ##⚠️ Примечание для Linux:
@@ -43,7 +43,7 @@ bash
 ```
 sudo apt install python3-tk
 ```
-```
+
 ---
 
 ##🚀 Запуск
@@ -139,3 +139,4 @@ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 ...
+---
