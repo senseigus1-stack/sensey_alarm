@@ -64,7 +64,7 @@ class AlarmClock:
                 self.config = {
                     "last_time": None,
                     "device": None,
-                    "sound_file": "C:/Users/arsenii/Desktop/sensey_alarm/Свиридов Время Вперед.wav",
+                    "sound_file": "C:/Users/arsenii/Desktop/sensey_alarm/.wav",
                     "volume": 0.5
                 }
         except Exception as e:
